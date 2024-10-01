@@ -119,7 +119,7 @@ import {
   
   const experiences = [
     {
-      title: "Softwarw Developer",
+      title: "Software Developer",
       company_name: "VivyaCorp",
       icon: vivyacorp,
       iconBg: "#383E56",
